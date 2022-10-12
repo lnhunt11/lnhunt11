@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://github.com/oslabs-beta/solid-dev-tool"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=oslabs-beta&repo=solid-dev-tool&theme=react&bg_color=1F222E&title_color=2f9eff&hide_border=true&icon_color=F8D866&show_icons=false" alt="solid-dev-tool"></a>
-  <a href="https://github.com/Jigglypuff-34/my-job-tracker/tree/main"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Jigglypuff-34&repo=my-job-tracker&theme=react&bg_color=1F222E&title_color=2f9eff&hide_border=true&icon_color=F8D866&show_icons=false" alt="my-job-tracker"></a>
+  <a href="https://github.com/Jigglypuff-34/my-job-tracker/tree/main"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=jigglypuff-34&repo=my-job-tracker&theme=react&bg_color=1F222E&title_color=2f9eff&hide_border=true&icon_color=F8D866&show_icons=false" alt="my-job-tracker"></a>
   <a href="https://github.com/heat-seeking-devil-chicken1/bivouac-iteration-v2/tree/dev"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=heat-seeking-devil-chicken1&repo=bivouac-iteration-v2&theme=react&bg_color=1F222E&title_color=2f9eff&hide_border=true&icon_color=F8D866&show_icons=false" alt="bivouac-iteration"></a>
   <a href="https://github.com/PinkFairyArmadillos34/CafeQuery/tree/development"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=PinkFairyArmadillos34&repo=CafeQuery&theme=react&bg_color=1F222E&title_color=2f9eff&hide_border=true&icon_color=F8D866&show_icons=false" alt="CafeQuery"></a>
 </p>
