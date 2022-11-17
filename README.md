@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  I am a software engineer always open to connect and collaborate.
+  I am a software engineer currently working on Solid-Dev-Tools, an open-source product that is part of OSLabs.
 </p>
 
 <p align="center">
